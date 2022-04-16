@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto:wght@700&display=swap');
+
+
+.wrapper {}
+
+
+.head {
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #C02521;
+}
+
+.text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 130%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+.page {}
+
+
+.html {}
+
+.html__heading {
+    font-size: 60px;
+    line-height: 117%;
+    letter-spacing: 0.15em;
+    text-shadow: 0px 0px 10px #C02521, 0px 0px 18px #E8C60C;
+    margin-bottom: 10px;
+}
+
+.html__text {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.html__italic {
+    color: #E8C60C;
+}
+
+.html__explanation {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.info {}
+
+.info__subheading {
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0.115em;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 10px #C02521;
+    margin-bottom: 20px;
+}
+
+.info__text {
+    margin-bottom: 50px;
+}
+
+.info__color {
+    color: #074F99;
+}
+
+
+.browsers {}
+
+.browsers__subheading {
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0.115em;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 10px #C02521;
+    margin-bottom: 25;
+}
+
+.browsers__text {
+    text-align: justify;
+    margin-bottom: 25px;
+}
+
+.browsers__color {
+    color: #DE721A;
+}
+
+.browsers__wrap-image {
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.browsers__image {}
+
+.browsers__list {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 130%;
+    letter-spacing: 0.015em;
+}
+
+.browsers__item-color-1 {
+    color: #E8C60C;
+}
+
+.browsers__item-color-2 {
+    color: #DE721A;
+}
+
+.browsers__item-color-3 {
+    color: #C22723;
+}
+
+.browsers__item-color-4 {
+    color: #7999B6;
+}
+
+.browsers__item-color-5 {
+    color: #074F99;
+}
