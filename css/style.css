@@ -25,6 +25,16 @@
 
 .page {}
 
+.page__html {
+    margin-bottom: 50px;
+}
+
+.page__info {
+    margin-bottom: 50px;
+}
+
+.page__browsers {}
+
 
 .html {}
 
@@ -33,11 +43,13 @@
     line-height: 117%;
     letter-spacing: 0.15em;
     text-shadow: 0px 0px 10px #C02521, 0px 0px 18px #E8C60C;
+
     margin-bottom: 10px;
 }
 
 .html__text {
     text-align: center;
+
     margin-bottom: 15px;
 }
 
@@ -47,7 +59,6 @@
 
 .html__explanation {
     text-align: center;
-    margin-bottom: 50px;
 }
 
 
@@ -59,12 +70,11 @@
     letter-spacing: 0.115em;
     text-transform: uppercase;
     text-shadow: 0px 0px 10px #C02521;
+
     margin-bottom: 20px;
 }
 
-.info__text {
-    margin-bottom: 50px;
-}
+.info__text {}
 
 .info__color {
     color: #074F99;
@@ -79,11 +89,13 @@
     letter-spacing: 0.115em;
     text-transform: uppercase;
     text-shadow: 0px 0px 10px #C02521;
+
     margin-bottom: 25;
 }
 
 .browsers__text {
     text-align: justify;
+
     margin-bottom: 25px;
 }
 
@@ -93,6 +105,7 @@
 
 .browsers__wrap-image {
     text-align: center;
+
     margin-bottom: 19px;
 }
 
